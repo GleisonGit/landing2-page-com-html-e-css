@@ -158,6 +158,12 @@ body {
 }
 
 /* Footer */
+footer {
+  background: linear-gradient(to bottom, #000, #0e0c31);
+  text-align: center;
+  padding: 40px 20px;
+  border-top: 1px solid #33a8db;
+}
 
 footer .dio-logo {
   max-width: 300px;
